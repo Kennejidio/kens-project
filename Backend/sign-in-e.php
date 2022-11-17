@@ -46,7 +46,7 @@
                 </div>
                 <!-- //*Button -->
                 <div class="d-grid m-3">
-                    <button type="submit" name="login_btn" class="button-pink">LOGIN</button>
+                    <button type="submit" name="emp_login_btn" class="button-pink">LOGIN</button>
                 </div>
                 <!-- //*Support and others-->
                 <div class="container text-center">
