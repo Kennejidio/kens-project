@@ -1,3 +1,5 @@
 <?php 
-include_once 'Backend/welcome.php';
+
+header("location: Backend/welcome.php")
+
 ?>
